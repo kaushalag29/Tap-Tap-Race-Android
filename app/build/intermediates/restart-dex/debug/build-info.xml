@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="525678810941535"
+    token="-8681464662881042583"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5195" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1431" />
+    <task
+        name="verifier"
+        duration="218" />
+
+    <artifact
+        location="F:\My Android App Development\AndroidStudioProjects\Tap Tap Race\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="525678810941535"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\My Android App Development\AndroidStudioProjects\Tap Tap Race\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

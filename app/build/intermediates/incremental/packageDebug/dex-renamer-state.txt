@@ -1,0 +1,7 @@
+#Mon Jan 15 14:15:27 IST 2018
+base.0=F\:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_01d961c05fc70ac7d250f9c23c07e7d40dde379c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_24dd3725e022086e7ce5701f64feff3c58aa4afd\\classes.dex
+base.1=F\:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_24dd3725e022086e7ce5701f64feff3c58aa4afd
+file.0=F\:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_01d961c05fc70ac7d250f9c23c07e7d40dde379c\\classes.dex

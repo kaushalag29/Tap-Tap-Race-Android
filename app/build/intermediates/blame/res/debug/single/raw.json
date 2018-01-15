@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sherlock.mp3",
+        "source": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\src\\main\\res\\raw\\sherlock.mp3"
+    },
+    {
+        "merged": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\res\\merged\\debug\\raw\\animal.mp3",
+        "source": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\src\\main\\res\\raw\\animal.mp3"
+    },
+    {
+        "merged": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hell.mp3",
+        "source": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\src\\main\\res\\raw\\hell.mp3"
+    },
+    {
+        "merged": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\build\\intermediates\\res\\merged\\debug\\raw\\count.mp3",
+        "source": "F:\\My Android App Development\\AndroidStudioProjects\\Tap Tap Race\\app\\src\\main\\res\\raw\\count.mp3"
+    }
+]
